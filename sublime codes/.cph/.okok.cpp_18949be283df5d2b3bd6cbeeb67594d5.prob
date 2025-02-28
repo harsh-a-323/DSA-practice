@@ -1,0 +1,1 @@
+{"name":"Local: okok","url":"e:\\sublime codes\\okok.cpp","tests":[{"id":1724597091769,"input":"4\n3 2\n1 1 1\n8 8\n1 1 2 2 3 3 4 4\n5 4\n1 1 1 2 2\n5 4\n1 1 1000000000 2 2\n","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\sublime codes\\okok.cpp","group":"local","local":true}

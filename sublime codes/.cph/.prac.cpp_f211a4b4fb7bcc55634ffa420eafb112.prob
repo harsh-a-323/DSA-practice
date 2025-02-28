@@ -1,0 +1,1 @@
+{"name":"Local: prac","url":"e:\\sublime codes\\prac.cpp","tests":[{"id":1723639865098,"input":"5\n5\n1 2 4 5 3\n2\n1 2\n1\n1\n3\n3 2 1\n16\n1 4 13 6 11 2 8 9 3 16 12 15 5 14 7 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\sublime codes\\prac.cpp","group":"local","local":true}

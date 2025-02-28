@@ -1,0 +1,9 @@
+def ok(x):
+    def f():
+        nonlocal x;x = x+1
+        yield x 
+    return f
+
+f1 = ok(5)
+print(next(f1()))
+print(next(f1()))
